@@ -165,6 +165,6 @@ The following transformations are applied to the training data:
 ### ROC Curve
 The ROC curve for the validation set is shown below:
 
-![ROC Curve](roc_curve.png)
+![ROC Curve](lense_finding_output.png)
 
 
