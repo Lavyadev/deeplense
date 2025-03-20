@@ -70,4 +70,4 @@ The model achieved a high AUC score of **0.9689** on the validation set, indicat
 ### ROC Curve
 The ROC curve for the validation set is shown below:
 
-![ROC Curve](roc_curve.png)
+![ROC Curve](common_test_output.png)
